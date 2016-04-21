@@ -3,7 +3,7 @@
 <div>
 	<p>Her skal det være en form.</p>
 
-	<form action="save_form.php">
+	<form action="save_form.php" method="POST">
 	<fieldset>
     	<legend>Bestillingskjema:</legend>
 
